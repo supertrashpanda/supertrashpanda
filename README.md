@@ -1,4 +1,4 @@
-[![Header](https://raw.github.com/MartinHeinz/supertrashpanda/supertrashpanda/blob/main/Untitled_Artwork%209.png "Header")](https://some-url.dev/)
+[![Header](https://github.com/supertrashpanda/supertrashpanda/blob/main/Untitled_Artwork%209.png "Header")](https://github.com/supertrashpanda/supertrashpanda/blob/main/Untitled_Artwork%209.png)
 
 ### Hi there 👋
 
