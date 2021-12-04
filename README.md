@@ -1,9 +1,11 @@
 [![Header](https://github.com/supertrashpanda/supertrashpanda/blob/main/Untitled_Artwork%209.png "Header")](https://github.com/supertrashpanda/supertrashpanda/blob/main/Untitled_Artwork%209.png)
 
 ### Hi there 👋
-This is Yunfan Ling, and I am a graduate student at Columbia University. I love to practice coding more, for various digital interative art projects I've been always wanting to undertake. So sad I'm just a complete beginner, but it's OK to be a beginner as long as there is progress to make.
+This is Yunfan Ling, and I am a graduate student at Columbia University. I love to practice coding more, for various digital interative art projects I've been always wanting to undertake. So sad I'm a complete beginner, but it's OK to be a beginner as long as I'm progressing.
 
-Currently I am working on a machine that can transform the sound of the wind (aeolian sound 💨 ) to fine verses/lines of poetry📝. Looking forward to collaborating with anyone who's interested in this idea.
+Currently I am working on a machine that can transform the sound of the wind (aeolian sound 💨 ) to fine verses/lines of poetry📝. Looking forward to collaborating with you if you are interested in this idea.
+
+![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 <!--
