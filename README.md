@@ -10,6 +10,8 @@ Currently I am working on a mobile App that can transform the sound of the wind 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Photoshop-informational?style=flat&logo=AdobePhotoshop&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Illustrator-informational?style=flat&logo=AdobeIllustrator&logoColor=white&color=2bbc8a)
+
 
 
 <!--
