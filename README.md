@@ -9,7 +9,7 @@ Currently I am working on a machine that can transform the sound of the wind (ae
 ### Technologies & Tools 🔧 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Photoshop-informational?style=flat&logo=Adobe Photoshop&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Photoshop-informational?style=flat&logo=AdobePhotoshop&logoColor=white&color=2bbc8a)
 
 
 <!--
