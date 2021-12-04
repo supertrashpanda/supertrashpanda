@@ -5,7 +5,10 @@ This is Yunfan Ling, and I am a graduate student at Columbia University. I love 
 
 Currently I am working on a machine that can transform the sound of the wind (aeolian sound 💨 ) to fine verses/lines of poetry📝. Looking forward to collaborating with you if you are interested in this idea.
 
+
+### Technology & Tools 🔧 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 
 <!--
