@@ -1,5 +1,3 @@
-[![Header](https://github.com/supertrashpanda/supertrashpanda/blob/main/Untitled_Artwork%209.png "Header")](https://github.com/supertrashpanda/supertrashpanda/blob/main/Untitled_Artwork%209.png)
-
 ### Hi there 👋
 This is Yunfan Ling, and I am a graduate student at Columbia University. I love to practice coding more, for various digital interative art projects I've been always wanting to undertake. So sad I'm a complete beginner, but it's OK to be a beginner as long as I'm making progress.
 
