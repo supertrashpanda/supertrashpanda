@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is Yunfan Ling, and I love coding, for various digital interative art projects I've been always wanting to undertake.
 
-Currently I am working on a mobile App that can transform the sound of the wind (aeolian sound 💨 ) to fine verses/lines of poetry📝. Looking forward to collaborating with you if you are interested in this idea.
+Currently I am working on a mobile App that can transform the sound of the wind (aeolian sound 💨 ) to fine verses/lines of poetry📝. I look forward to collaborating with you if you are interested in this idea.
 
 
 ### Technologies & Tools 🔧 
