@@ -1,3 +1,6 @@
+<img src="/Users/lingyunfan/Downloads/IMG_0940.jpg" width="30px">
+
+
 ### Hi there 👋
 This is Yunfan Ling, and I am learning coding for various digital interative art projects I've always been wanting to undertake.
 
