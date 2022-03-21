@@ -1,5 +1,5 @@
+![IMG_0940](https://user-images.githubusercontent.com/78892787/159191636-b60a1a08-79e8-4060-bc0f-9070d135dafe.jpg)
 
-![IMG_0940](https://user-images.githubusercontent.com/78892787/159191582-c88a5f6b-9c20-4c0b-8e32-88ec4d3024c7.jpg)
 
 
 ### Hi there 👋
