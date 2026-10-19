@@ -3,9 +3,9 @@
 
 
 ### Hi there 👋
-This is Yunfan Ling, and I am learning coding for various digital interative art projects I've always been wanting to undertake.
+This is Yunfan Ling, and I am learning coding for various digital interactive art projects。
 
-Currently I am considering building a mobile App that can transform the sound of the wind (aeolian sound 💨 ) to fine verses/lines of poetry📝. I look forward to collaborating with you if you are interested in this idea.
+Currently I am considering building a mobile App that can transform the sound of the wind (aeolian sound 💨 ) into fine verses/lines of poetry📝. I look forward to collaborating with you if you are interested in this idea.
 
 
 ### Technologies & Tools 🔧 
